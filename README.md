@@ -10,6 +10,6 @@
 ### I Use:
 <img src="https://haymak3er.github.io/res/profile/arch.png" width=25 height=25/><img src="https://haymak3er.github.io/res/profile/ubuntu.png" width=25 height=25/><img src="https://haymak3er.github.io/res/profile/windows.png" width=25 height=25/>
 
-### My GitHub Stats:
+### Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haymak3er&theme=github_dark&show_icons=true&hide=contribs,prs)<br>
 ill get better stats soon
