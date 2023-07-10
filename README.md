@@ -1,5 +1,4 @@
 # haymak3er
-****
 
 ## Fun Facts:
  - 16 yr. old
