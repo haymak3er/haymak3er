@@ -12,5 +12,5 @@
 
 ### Stats:
 [//]: ![](https://github-readme-stats.vercel.app/api?username=haymak3er&theme=github_dark&show_icons=true&hide=contribs,prs)<br>
-ill get better stats soon
+ill get better stats soon<br>
 nvm stats dont work
