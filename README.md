@@ -1,7 +1,6 @@
-## haymak3er
-****
+# haymak3er
 
-#### Fun Facts:
+### Fun Facts:
  - 16 yr. old
  - Interested in cybersecurity
  - Soundcloud > Spotify
